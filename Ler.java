@@ -10,6 +10,6 @@ public class Ler {
         System.out.println("O número é: " + numero);
         leitor.close();
 
-        System.out.println("Fim!");
+        System.out.println("Fim!!");
     }
 }
