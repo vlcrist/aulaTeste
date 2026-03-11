@@ -9,5 +9,7 @@ public class Ler {
         numero = leitor.nextInt();
         System.out.println("O número é: " + numero);
         leitor.close();
+
+        System.out.println("Fim!");
     }
 }
