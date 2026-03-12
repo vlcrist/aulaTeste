@@ -11,5 +11,6 @@ public class Ler {
         leitor.close();
 
         System.out.println("Fim!!");
+        System.out.println("Obrigado!");
     }
 }
